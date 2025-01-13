@@ -4,7 +4,7 @@ pygame.init()
 w_width = 500
 w_height = 500
 screen = pygame.display.set_mode((w_width,w_height))
-pygame.display.set_caption("SUPER STRIKER")
+pygame.display.set_caption("Super Striker Showdown")
 
 
 clock = pygame.time.Clock()
